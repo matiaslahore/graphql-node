@@ -15,5 +15,5 @@ cd graphql-node && npm i
 
 Add your MongDB into App.js and Run proyect
 ```
-npm start
+nodemon app.js
 ```
